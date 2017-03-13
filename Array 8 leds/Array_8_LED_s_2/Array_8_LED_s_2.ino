@@ -16,7 +16,7 @@ const int led4 = 9;          // donar nom al pin 9 de l’Arduino
 const int led5 = 10;         // donar nom al pin 10 de l’Arduino
 const int led6 = 11;         // donar nom al pin 11 de l’Arduino
 const int led7 = 12;         // donar nom al pin 12 de l’Arduino
-int pausa = 500;             // definir variable de temps en ms
+int pausa = 250;             // definir variable de temps en ms
 //******************************** SETUP ******************************************
 void setup()
 {
